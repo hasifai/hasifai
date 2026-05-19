@@ -33,7 +33,7 @@
 
 <table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 <img src="https://api.iconify.design/lucide/factory.svg?color=%23E879F9" width="16" height="16" alt="factory" /> &nbsp; **5 years Senior Manufacturing Engineer** at WSA Venture Australia — injection moulding, PU foam, automotive (Jeep Wrangler, Lucid Motors)
 
@@ -46,9 +46,9 @@
 <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23E879F9" width="16" height="16" alt="location" /> &nbsp; Based in Malaysia — building local-first AI on edge hardware
 
 </td>
-<td width="40%" align="center" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifai&layout=compact&hide_border=true&bg_color=070B19&title_color=3B82F6&text_color=E2E8F0&langs_count=6" width="100%" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasifai&layout=compact&hide_border=true&bg_color=070B19&title_color=3B82F6&text_color=E2E8F0&icon_color=E879F9&langs_count=6)
 
 </td>
 </tr>
