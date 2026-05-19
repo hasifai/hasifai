@@ -35,7 +35,14 @@
       <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="16" height="16" align="center" alt="location"/> Based in Malaysia — building local-first AI on edge hardware
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasifai&theme=github_dark" alt="Top Languages" width="100%" />
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,ts,js,rust,dart&theme=dark&perline=5" alt="Languages" />
+      </a>
+      <br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ollama,bash,powershell&theme=dark&perline=5" alt="AI & CLI" />
+      </a>
     </td>
   </tr>
 </table>
@@ -69,7 +76,11 @@
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,raspberrypi,supabase,postgres,tensorflow,pytorch,git,github,vscode&theme=dark&perline=10" alt="Infrastructure & Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,raspberrypi,supabase,postgres,firebase,vercel,netlify,nginx,redis&theme=dark&perline=10" alt="Infrastructure & Cloud" />
+  </a>
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ollama,bash,powershell,git,github,vscode,figma,notion&theme=dark&perline=10" alt="AI, CLI & Tools" />
   </a>
 </div>
 
@@ -170,7 +181,14 @@ Real-time crypto signal monitoring and automated trade alerts
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifai&bg_color=070B19&color=3B82F6&line=3B82F6&point=E879F9&area=true&area_color=3B82F615&hide_border=true" width="98%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasifai&theme=github_dark&utcOffset=8" alt="Productive Time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasifai&theme=github_dark" alt="Most Commit Language" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasifai&theme=github_dark" width="98%" alt="Profile Details" />
 </div>
 
 <br/>
