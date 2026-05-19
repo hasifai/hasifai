@@ -151,26 +151,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
-
-<h3>🌊 MyResilience</h3>
-
-<a href="https://frontend-tan-pi-28.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_LIVE_APP-Visit_Demo-00FF99?style=for-the-badge&labelColor=0d1117" />
-</a>
-
-<br/><br/>
-
-AI disaster preparedness — real-time alerts, evacuation routing & community resilience scoring
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-00FF99?style=flat-square" />
-<img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-
-</td>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <h3>🔒 AI ScamShield</h3>
 
@@ -180,7 +161,7 @@ AI disaster preparedness — real-time alerts, evacuation routing & community re
 
 <br/><br/>
 
-Real-time scam detection protecting Malaysians from online fraud — multi-vector analysis
+Real-time scam detection protecting Malaysians from online fraud
 
 <br/><br/>
 
@@ -189,14 +170,12 @@ Real-time scam detection protecting Malaysians from online fraud — multi-vecto
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <h3>🔍 Project OCR-CC</h3>
 
 <a href="https://github.com/hasifai/Project-OCR-CC">
-  <img src="https://img.shields.io/badge/🔗_VIEW_REPO-Project_OCR--CC-00FF99?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔗_VIEW_REPO-OCR--CC-00FF99?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
@@ -207,15 +186,15 @@ OCR-powered document processing with intelligent text extraction
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OCR-FF6B35?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/CV-7C3AED?style=flat-square" />
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
-<h3>📡 Bybit Signal Monitor</h3>
+<h3>📡 Signal Monitor</h3>
 
 <a href="https://github.com/hasifai/BYBIT-SIGNAL-MONITOR">
-  <img src="https://img.shields.io/badge/🔗_VIEW_REPO-Signal_Monitor-00FF99?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔗_VIEW_REPO-Bybit_Monitor-00FF99?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
