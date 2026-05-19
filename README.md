@@ -23,35 +23,21 @@
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
-<div align="center">
-  <img src="https://api.iconify.design/lucide/user.svg?color=%233B82F6" width="20" height="20" alt="user" />
-  &nbsp;
-  <b>About</b>
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://api.iconify.design/lucide/factory.svg?color=%23E879F9" width="16" height="16" alt="factory" /> &nbsp; **5 years Senior Manufacturing Engineer** at WSA Venture Australia — injection moulding, PU foam, automotive (Jeep Wrangler, Lucid Motors)
-
-<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23E879F9" width="16" height="16" alt="education" /> &nbsp; **B.Eng Manufacturing Technology** (Automotive Design) with Honours
-
-<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23E879F9" width="16" height="16" alt="ai" /> &nbsp; **Now building** sovereign AI systems — multi-agent orchestration, edge deployment, privacy-first architecture
-
-<img src="https://api.iconify.design/lucide/trophy.svg?color=%23E879F9" width="16" height="16" alt="trophy" /> &nbsp; **Top 14 Finalist** — Global AI Hackathon 2026 Grand Finale
-
-<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23E879F9" width="16" height="16" alt="location" /> &nbsp; Based in Malaysia — building local-first AI on edge hardware
-
-</td>
-<td width="50%" valign="top" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasifai&layout=compact&hide_border=true&bg_color=070B19&title_color=3B82F6&text_color=E2E8F0&icon_color=E879F9&langs_count=6)
-
-</td>
-</tr>
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h3><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="20" height="20" align="center" alt="user"/> About</h3>
+      <br>
+      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/factory.svg" width="16" height="16" align="center" alt="factory"/> <b>5 years Senior Manufacturing Engineer</b> at WSA Venture Australia — injection moulding, PU foam, automotive (Jeep Wrangler, Lucid Motors) <br><br>
+      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/graduation-cap.svg" width="16" height="16" align="center" alt="education"/> <b>B.Eng Manufacturing Technology</b> (Automotive Design) with Honours <br><br>
+      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/cpu.svg" width="16" height="16" align="center" alt="ai"/> <b>Now building</b> sovereign AI systems — multi-agent orchestration, edge deployment, privacy-first architecture <br><br>
+      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/trophy.svg" width="16" height="16" align="center" alt="trophy"/> <b>Top 14 Finalist</b> — Global AI Hackathon 2026 Grand Finale <br><br>
+      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="16" height="16" align="center" alt="location"/> Based in Malaysia — building local-first AI on edge hardware
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifai&layout=compact&hide_border=true&bg_color=070B19&title_color=3B82F6&text_color=E2E8F0&icon_color=E879F9" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -60,11 +46,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Manufacturing-5_Years-E879F9?style=flat-square&labelColor=070B19" />
   &nbsp;
-  <img src="https://api.iconify.design/lucide/arrow-right.svg?color=%2394A3B8" width="16" height="16" alt="arrow" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/arrow-right.svg" width="16" height="16" alt="arrow" />
   &nbsp;
   <img src="https://img.shields.io/badge/AI_Architect-Current-3B82F6?style=flat-square&labelColor=070B19" />
   &nbsp;
-  <img src="https://api.iconify.design/lucide/arrow-right.svg?color=%2394A3B8" width="16" height="16" alt="arrow" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/arrow-right.svg" width="16" height="16" alt="arrow" />
   &nbsp;
   <img src="https://img.shields.io/badge/Edge_Sovereign-Next-E879F9?style=flat-square&labelColor=070B19" />
 </div>
@@ -74,7 +60,7 @@
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <div align="center">
-  <img src="https://api.iconify.design/lucide/layers.svg?color=%233B82F6" width="20" height="20" alt="stack" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="20" height="20" alt="stack" />
   &nbsp;
   <b>Tech Stack</b>
   <br/><br/>
@@ -92,7 +78,7 @@
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
 <div align="center">
-  <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%233B82F6" width="20" height="20" alt="projects" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/folder-git-2.svg" width="20" height="20" alt="projects" />
   &nbsp;
   <b>Featured Projects</b>
   <br/><br/>
@@ -101,15 +87,15 @@
 <table align="center">
 <tr>
 <th width="33%" align="center">
-  <img src="https://api.iconify.design/lucide/shield-check.svg?color=%233B82F6" width="24" height="24" alt="shield" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield-check.svg" width="24" height="24" alt="shield" />
   <br/>AI ScamShield
 </th>
 <th width="33%" align="center">
-  <img src="https://api.iconify.design/lucide/scan-text.svg?color=%233B82F6" width="24" height="24" alt="ocr" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/scan-text.svg" width="24" height="24" alt="ocr" />
   <br/>Project OCR-CC
 </th>
 <th width="33%" align="center">
-  <img src="https://api.iconify.design/lucide/activity.svg?color=%233B82F6" width="24" height="24" alt="signal" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/activity.svg" width="24" height="24" alt="signal" />
   <br/>Signal Monitor
 </th>
 </tr>
@@ -170,7 +156,7 @@ Real-time crypto signal monitoring and automated trade alerts
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
 <div align="center">
-  <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%233B82F6" width="20" height="20" alt="analytics" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-3.svg" width="20" height="20" alt="analytics" />
   &nbsp;
   <b>Analytics</b>
   <br/><br/>
@@ -210,7 +196,7 @@ Real-time crypto signal monitoring and automated trade alerts
 <!-- ═══════════════════ ACTIVITY ═══════════════════ -->
 
 <div align="center">
-  <img src="https://api.iconify.design/lucide/terminal.svg?color=%233B82F6" width="20" height="20" alt="activity" />
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal.svg" width="20" height="20" alt="activity" />
   &nbsp;
   <b>Recent Activity</b>
   <br/><br/>
