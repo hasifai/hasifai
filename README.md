@@ -35,7 +35,7 @@
       <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="16" height="16" align="center" alt="location"/> Based in Malaysia — building local-first AI on edge hardware
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifai&layout=compact&hide_border=true&bg_color=070B19&title_color=3B82F6&text_color=E2E8F0&icon_color=E879F9" alt="Top Languages" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasifai&theme=github_dark" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -163,7 +163,7 @@ Real-time crypto signal monitoring and automated trade alerts
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasifai&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=070B19&title_color=3B82F6&text_color=E2E8F0&icon_color=E879F9&ring_color=3B82F6" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasifai&theme=github_dark" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifai&hide_border=true&background=070B19&stroke=1E293B&ring=3B82F6&fire=E879F9&currStreakLabel=3B82F6&sideLabels=3B82F6&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub Streak" width="49%" />
 </div>
 
