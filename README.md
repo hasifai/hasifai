@@ -153,53 +153,34 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3>🧠 Dukelove MemoryCore</h3>
-
-<a href="https://github.com/hasifai/Dukelove-MemoryCore">
-  <img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-Dukelove_MemoryCore-00FF99?style=for-the-badge&labelColor=0d1117" />
-</a>
-
-<br/><br/>
-
-AI companion with **213 autonomous skills** & multi-agent orchestration
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-00FF99?style=flat-square" />
-<img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
 <h3>🌊 MyResilience</h3>
 
 <a href="https://frontend-tan-pi-28.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_App-00FF99?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌐_LIVE_APP-Visit_Demo-00FF99?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-AI disaster preparedness — real-time alerts, evacuation routing, community resilience
+AI disaster preparedness — real-time alerts, evacuation routing & community resilience scoring
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-00FF99?style=flat-square" />
-<img src="https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center">
 
 <h3>🔒 AI ScamShield</h3>
 
 <a href="https://ai-hackathon-overclock-page.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_App-00FF99?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌐_LIVE_APP-Visit_Demo-00FF99?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-Real-time scam detection protecting Malaysians from online fraud
+Real-time scam detection protecting Malaysians from online fraud — multi-vector analysis
 
 <br/><br/>
 
@@ -208,22 +189,44 @@ Real-time scam detection protecting Malaysians from online fraud
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="center">
 
-<h3>⚙️ IRON PULSE</h3>
+<h3>🔍 Project OCR-CC</h3>
 
-<img src="https://img.shields.io/badge/🔬_COMING_SOON-In_Development-FF6B35?style=for-the-badge&labelColor=0d1117" />
+<a href="https://github.com/hasifai/Project-OCR-CC">
+  <img src="https://img.shields.io/badge/🔗_VIEW_REPO-Project_OCR--CC-00FF99?style=for-the-badge&labelColor=0d1117" />
+</a>
 
 <br/><br/>
 
-Manufacturing AI — predictive maintenance & anomaly detection on edge hardware
+OCR-powered document processing with intelligent text extraction
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-FF6B35?style=flat-square" />
-<img src="https://img.shields.io/badge/Edge_ML-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/OCR-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h3>📡 Bybit Signal Monitor</h3>
+
+<a href="https://github.com/hasifai/BYBIT-SIGNAL-MONITOR">
+  <img src="https://img.shields.io/badge/🔗_VIEW_REPO-Signal_Monitor-00FF99?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+Real-time crypto signal monitoring & automated trade alerts
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/API-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/Trading-FF6B35?style=flat-square" />
 
 </td>
 </tr>
