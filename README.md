@@ -1,29 +1,30 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hasif%20Zulkifli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Manufacturing%20Engineer%20%E2%86%92%20AI%20Architect&descSize=18&descAlignY=52&descAlign=50" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+Sovereign+AI+Systems+%F0%9F%A7%A0;Edge+Computing+%7C+Multi-Agent+Orchestration+%F0%9F%93%A1;From+Factory+Floor+to+AI+Architecture+%F0%9F%8F%AD%E2%86%92%F0%9F%A4%96;Top+14+Global+AI+Hackathon+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
+<img src="https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif" alt="AI Header Animation" width="100%">
 
-<br>
+<a href="https://github.com/hasifai">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Manufacturing+Engineer+%E2%86%92+AI+Architect;Building+Machines+That+Think;Creator+of+Dukelove+MemoryCore;Pioneering+Edge+AI+Systems;Top+14+Global+AI+Hackathon+Finalist" alt="Typing SVG" />
+</a>
 
-<a href="mailto:hasif1144@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/hasifai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Malaysia-🇲🇾-009639?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=hasifai&style=for-the-badge&color=A855F7&label=VISITORS" />
+<br/>
+
+<a href="mailto:hasif1144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/hasifai"><img src="https://img.shields.io/badge/Malaysia_Based-000000?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
+<img src="https://profile-counter.glitch.me/hasifai/count.svg" alt="Visitors" />
 
 </div>
 
 ---
 
-## 🧬 About Me
+## 🧬 The Blueprint
 
-> **Manufacturing Engineer turned AI Architect** — I spent 5 years building and maintaining machines on factory floors. Now I build machines that think.
+> *Manufacturing Engineer turned AI Architect* — I spent 5 years building and maintaining machines on factory floors. Now I build machines that think.
 
-- 🏭 **Former Senior Engineer** at WSA Venture Australia — injection moulding, PU foam, automotive (Jeep Wrangler, Lucid)
+- 🏭 **Former Senior Engineer** at WSA Venture Australia *(injection moulding, PU foam, Jeep Wrangler, Lucid)*
 - 🎓 **B.Eng Manufacturing Technology** (Automotive Design) with Honours
-- 🏆 **Top 14 Finalist** — Global AI Hackathon 2026 Grand Finale (Nexperts Academy)
-- 🧠 Built **Dukelove MemoryCore** — an AI companion with 213 autonomous skills
-- 📡 Currently building **IRON PULSE** — Manufacturing AI for predictive maintenance on edge hardware
+- 🏆 **Top 14 Finalist** — Global AI Hackathon 2026 Grand Finale
+- 🧠 **Creator:** Built *Dukelove MemoryCore* — AI companion with 213 autonomous skills
+- 📡 **Currently Building:** *IRON PULSE* — Manufacturing AI for predictive maintenance on edge hardware
 - 🇲🇾 Based in Malaysia · Building local-first, privacy-sovereign AI systems
 
 ---
@@ -31,57 +32,57 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,nextjs,react,tailwind,flutter&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,docker,raspberrypi,linux,git&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,figma,github,vercel,firebase,bash&theme=dark" />
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,dart,nextjs,react,tailwind,flutter&theme=dark" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,postgres,supabase,linux,raspberrypi,git&theme=dark" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vercel,firebase,figma,vscode,github,bash&theme=dark" />
+  </a>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Arsenal (Featured Projects)
 
-<div align="center">
-
-| | Project | Description | Tech |
-|:--|:--------|:------------|:-----|
-| 🧠 | **[Dukelove MemoryCore](https://github.com/hasifai/Dukelove-MemoryCore)** | AI companion with 213 autonomous skills & multi-agent orchestration | `Python` `AI` `Architecture` |
+| | Project | Description | Stack |
+|:--|:--------|:------------|:------|
+| 🧠 | **[Dukelove MemoryCore](https://github.com/hasifai/Dukelove-MemoryCore)** | AI companion with 213 autonomous skills & multi-agent orchestration | `Python` `AI Architecture` |
 | ⚙️ | **IRON PULSE** | Manufacturing AI — predictive maintenance, anomaly detection, edge telemetry | `Python` `FastAPI` `IoT` `ML` |
 | 🛡️ | **SovereignOS** | Local-first AI operating system · 42/42 test coverage | `TypeScript` `Python` `Docker` |
 | 🌊 | **[MyResilience](https://frontend-tan-pi-28.vercel.app)** | AI disaster preparedness — real-time alerts & evacuation routing | `Next.js` `AI` `Maps` |
-| 🔒 | **[AI ScamShield](https://ai-hackathon-overclock-page.vercel.app)** | Real-time scam detection protecting Malaysians from online fraud | `AI` `Next.js` `Vercel` |
+| 🔒 | **[AI ScamShield](https://ai-hackathon-overclock-page.vercel.app)** | Real-time scam detection protecting Malaysians from online fraud | `Next.js` `AI` `Vercel` |
 | 🔍 | **Neuro Email Classifier** | ML-powered email intelligence with Ollama integration | `Python` `scikit-learn` `FastAPI` |
 
+---
+
+## 📊 Telemetry (GitHub Analytics)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasifai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifai&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifai&theme=react-dark&hide_border=true&area=true&color=00FF99&line=00FF99&point=FFFFFF" width="95%" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasifai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifai&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=555555" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifai&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7" width="95%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hasifai&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasifai/hasifai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasifai/hasifai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasifai/hasifai/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
@@ -89,7 +90,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 No recent activity tracked yet — workflow will populate this automatically
+1. 🚀 Activity will auto-populate here daily
 <!--END_SECTION:activity-->
 
 ---
@@ -98,12 +99,6 @@
 
 ### 💠 *"From maintaining machines to building minds."*
 
-<br>
-
-<img src="https://img.shields.io/badge/FOCUS-Sovereign_AI_Systems-A855F7?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MODE-Building-00FF88?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/STACK-Full_Spectrum-FF6B6B?style=flat-square&labelColor=0D1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
