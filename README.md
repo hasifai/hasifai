@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif" alt="AI Header Animation" width="100%">
+<img src="https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif" alt="AI Header Animation" width="60%">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FF99&text=HASIF%20ZULKIFLI&height=80&fontSize=48&fontAlignY=60&desc=AI%20Architect%20%7C%20Edge%20Engineer%20%7C%20System%20Builder&descSize=16&descAlignY=85&descColor=8B949E&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/hasifai">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Manufacturing+Engineer+%E2%86%92+AI+Architect;Building+Machines+That+Think;Creator+of+Dukelove+MemoryCore;Pioneering+Edge+AI+Systems;Top+14+Global+AI+Hackathon+Finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Manufacturing+Engineer+%E2%86%92+AI+Architect;Building+Machines+That+Think;Creator+of+Dukelove+MemoryCore;Pioneering+Edge+AI+Systems;Top+14+Global+AI+Hackathon+Finalist" alt="Typing SVG" />
 </a>
 
 <br/>
