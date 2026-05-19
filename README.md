@@ -20,7 +20,7 @@
 <br/><br/>
 
 <!-- Animated badges row -->
-<a href="https://github.com/hasifai"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&style=for-the-badge&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fhasifai&color=00FF99&labelColor=0d1117&logoColor=white" alt="Followers" /></a>
+<a href="https://github.com/hasifai"><img src="https://img.shields.io/github/followers/hasifai?style=for-the-badge&color=00FF99&labelColor=0d1117&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=hasifai&color=00FF99&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
 
@@ -156,10 +156,10 @@
 <h3>🧠 Dukelove MemoryCore</h3>
 
 <a href="https://github.com/hasifai/Dukelove-MemoryCore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasifai&repo=Dukelove-MemoryCore&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=FF6B35" width="95%" />
+  <img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-Dukelove_MemoryCore-00FF99?style=for-the-badge&labelColor=0d1117" />
 </a>
 
-<br/>
+<br/><br/>
 
 AI companion with **213 autonomous skills** & multi-agent orchestration
 
@@ -323,7 +323,7 @@ Manufacturing AI — predictive maintenance & anomaly detection on edge hardware
 <br/><br/>
 
 <!-- Animated coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="40%" />
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40%" />
 
 <br/><br/>
 
