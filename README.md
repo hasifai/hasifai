@@ -1,3 +1,5 @@
+<!-- ⚠️ SIDEBAR REMINDER: Fill in GitHub sidebar — bio, location (Sabah, Malaysia), website/portfolio, LinkedIn URL under Settings → Profile. These appear in Google search results. -->
+
 <div align="center">
 
 <!-- Custom SVG Banner -->
@@ -26,13 +28,13 @@
 <table align="center" width="100%" border="0">
   <tr>
     <td width="55%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="20" height="20" align="center" alt="user"/> About</h3>
+      <h3>👤 About</h3>
       <br>
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/factory.svg" width="16" height="16" align="center" alt="factory"/> <b>5 years Senior Manufacturing Engineer</b> at WSA Venture Australia — injection moulding, PU foam, automotive (Jeep Wrangler, Lucid Motors) <br><br>
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/graduation-cap.svg" width="16" height="16" align="center" alt="education"/> <b>B.Eng Manufacturing Technology</b> (Automotive Design) with Honours <br><br>
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/cpu.svg" width="16" height="16" align="center" alt="ai"/> <b>Now building</b> sovereign AI systems — multi-agent orchestration, edge deployment, privacy-first architecture <br><br>
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/trophy.svg" width="16" height="16" align="center" alt="trophy"/> <b>Top 14 Finalist</b> — Global AI Hackathon 2026 Grand Finale <br><br>
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="16" height="16" align="center" alt="location"/> Based in Malaysia — building local-first AI on edge hardware
+      🏭 <b>5 years Senior Manufacturing Engineer</b> at WSA Venture Australia — injection moulding, PU foam, automotive (Jeep Wrangler, Lucid Motors) <br><br>
+      🎓 <b>B.Eng Manufacturing Technology</b> (Automotive Design) with Honours <br><br>
+      🧠 <b>Now building</b> sovereign AI systems — multi-agent orchestration, edge deployment, privacy-first architecture <br><br>
+      🏆 <b>Top 14 Finalist</b> — Global AI Hackathon 2026 Grand Finale (Team Overclock) <br><br>
+      📍 Based in Malaysia (Sabah) — building local-first AI on edge hardware
     </td>
     <td width="45%" valign="top" align="center">
       <br>
@@ -52,13 +54,9 @@
 <!-- Career Progression -->
 <div align="center">
   <img src="https://img.shields.io/badge/Manufacturing-5_Years-E879F9?style=flat-square&labelColor=070B19" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/arrow-right.svg" width="16" height="16" alt="arrow" />
-  &nbsp;
+  &nbsp;➜&nbsp;
   <img src="https://img.shields.io/badge/AI_Architect-Current-3B82F6?style=flat-square&labelColor=070B19" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/arrow-right.svg" width="16" height="16" alt="arrow" />
-  &nbsp;
+  &nbsp;➜&nbsp;
   <img src="https://img.shields.io/badge/Edge_Sovereign-Next-E879F9?style=flat-square&labelColor=070B19" />
 </div>
 
@@ -67,10 +65,9 @@
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="20" height="20" alt="stack" />
-  &nbsp;
-  <b>Tech Stack</b>
-  <br/><br/>
+
+## ⚡ Tech Stack
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,rust,dart,nextjs,react,tailwind,flutter,fastapi&theme=dark&perline=10" alt="Languages & Frameworks" />
   </a>
@@ -89,35 +86,29 @@
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/folder-git-2.svg" width="20" height="20" alt="projects" />
-  &nbsp;
-  <b>Featured Projects</b>
-  <br/><br/>
+
+## 🗂️ Featured Projects
+
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<th width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield-check.svg" width="24" height="24" alt="shield" />
-  <br/>AI ScamShield
-</th>
-<th width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/scan-text.svg" width="24" height="24" alt="ocr" />
-  <br/>Project OCR-CC
-</th>
-<th width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/activity.svg" width="24" height="24" alt="signal" />
-  <br/>Signal Monitor
-</th>
+<th align="center">🛡️ AI ScamShield</th>
+<th align="center">🔍 Project OCR-CC</th>
+<th align="center">📈 Signal Monitor</th>
 </tr>
 <tr>
 <td align="center" valign="top">
 
-Real-time scam detection protecting Malaysians from online fraud
+AI-powered fraud detection with real-time scam classification and alert system
 
 <br/><br/>
 
-<a href="https://ai-hackathon-overclock-page.vercel.app">
+<a href="https://github.com/hasifai/llm-chat-app-template">
+  <img src="https://img.shields.io/badge/View_Repo-3B82F6?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
+</a>
+&nbsp;
+<a href="#">
   <img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 
@@ -167,16 +158,15 @@ Real-time crypto signal monitoring and automated trade alerts
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-3.svg" width="20" height="20" alt="analytics" />
-  &nbsp;
-  <b>Analytics</b>
-  <br/><br/>
+
+## 📊 Analytics
+
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasifai&theme=github_dark" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifai&hide_border=true&background=070B19&stroke=1E293B&ring=3B82F6&fire=E879F9&currStreakLabel=3B82F6&sideLabels=3B82F6&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub Streak" width="49%" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifai&hide_border=true&background=0D1117&stroke=1E2934&ring=3B82F6&fire=E879F9&currStreakLabel=3B82F6&sideLabels=3B82F6&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub Streak" width="49%" />
+</p>
 
 <br/>
 
@@ -214,14 +204,12 @@ Real-time crypto signal monitoring and automated trade alerts
 <!-- ═══════════════════ ACTIVITY ═══════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal.svg" width="20" height="20" alt="activity" />
-  &nbsp;
-  <b>Recent Activity</b>
-  <br/><br/>
-</div>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 📡 Recent Activity
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifai&theme=github-compact&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E879F9" width="98%" alt="Activity Graph" />
+
+</div>
 
 <br/><br/>
 
@@ -229,7 +217,7 @@ Real-time crypto signal monitoring and automated trade alerts
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From+maintaining+machines+to+building+minds.&author=Hasif+Zulkifli&bg_color=070B19&border_color=1E293B" width="70%" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+way+to+predict+the+future+is+to+invent+it.&author=Alan+Kay&bg_color=070B19&border_color=1E293B" width="70%" alt="Quote" />
 
 <br/><br/>
 
@@ -241,7 +229,11 @@ Real-time crypto signal monitoring and automated trade alerts
   <img src="https://img.shields.io/badge/GitHub-070B19?style=flat-square&logo=github&logoColor=E2E8F0" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Malaysia-070B19?style=flat-square&logo=googlemaps&logoColor=E2E8F0" alt="Location" />
+<a href="https://linkedin.com/in/hasifai">
+  <img src="https://img.shields.io/badge/LinkedIn-070B19?style=flat-square&logo=linkedin&logoColor=E2E8F0" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sabah,_Malaysia-070B19?style=flat-square&logo=googlemaps&logoColor=E2E8F0" alt="Location" />
 
 <br/><br/>
 
