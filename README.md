@@ -86,6 +86,14 @@
 
 ---
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🚀 No recent activity tracked yet — workflow will populate this automatically
+<!--END_SECTION:activity-->
+
+---
+
 <div align="center">
 
 ### 💠 *"From maintaining machines to building minds."*
