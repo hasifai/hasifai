@@ -5,6 +5,12 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468b5596.gif" width="25" /> &nbsp;
+<samp><b>Welcome to my digital workshop — where factory floors meet neural networks.</b></samp>
+&nbsp; <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468b5596.gif" width="25" />
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FF99&text=HASIF%20ZULKIFLI&height=100&fontSize=52&fontAlignY=50&desc=AI%20Architect%20%7C%20Edge%20Engineer%20%7C%20System%20Builder&descSize=16&descAlignY=78&descColor=8B949E&animation=twinkling" width="100%" />
 
 <a href="https://github.com/hasifai">
