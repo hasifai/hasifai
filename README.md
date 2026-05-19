@@ -1,122 +1,261 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="0" height="0" style="display:none" />
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" alt="AI Neural Network" width="55%">
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     HASIF ZULKIFLI — SOVEREIGN SYSTEM INTERFACE
+     Theme: Command Terminal / AI System Dashboard
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF99,100:0d1117&height=200&section=header&text=&fontSize=0" width="100%" />
 
 <br/>
 
 <a href="https://github.com/hasifai">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Welcome+to+my+digital+workshop;Where+factory+floors+meet+neural+networks;Pull+up+a+chair+%E2%80%94+let+me+show+you+what+I+build" alt="Welcome Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=70&lines=%E2%96%88%E2%96%88+HASIF+ZULKIFLI+%E2%96%88%E2%96%88" alt="Name" />
 </a>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FF99&text=HASIF%20ZULKIFLI&height=100&fontSize=52&fontAlignY=50&desc=AI%20Architect%20%7C%20Edge%20Engineer%20%7C%20System%20Builder&descSize=16&descAlignY=78&descColor=8B949E&animation=twinkling" width="100%" />
 
 <a href="https://github.com/hasifai">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Manufacturing+Engineer+%E2%86%92+AI+Architect;Building+Machines+That+Think;Creator+of+Dukelove+MemoryCore;Pioneering+Edge+AI+Systems;Top+14+Global+AI+Hackathon+Finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=50&lines=%3E+system.boot()...+Sovereign+AI+Architect+online;%3E+status%3A+building+machines+that+think;%3E+location%3A+Malaysia+%7C+mode%3A+edge_deployment;%3E+welcome_visitor()...+pull+up+a+chair+%F0%9F%91%8B" alt="Subtitle Typing" />
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🏭_Manufacturing-5_Years-FF6B35?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🔧_Injection_Moulding-Advanced-FF6B35?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🚗_Automotive-Jeep_|_Lucid-FF6B35?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/⚙️_PU_Foam_Process-Advanced-FF6B35?style=flat-square&labelColor=1a1a2e" />
-
-<br/><br/>
-
-<a href="mailto:hasif1144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/hasifai"><img src="https://img.shields.io/badge/Malaysia_Based-000000?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=hasifai&color=00FF99&style=for-the-badge&label=VISITORS" alt="Visitors" />
-
-</div>
-
----
-
-## 🧬 The Blueprint
-
-> *Manufacturing Engineer turned AI Architect* — I spent 5 years building and maintaining machines on factory floors. Now I build machines that think.
-
-- 🏭 **Former Senior Engineer** at WSA Venture Australia *(injection moulding, PU foam, Jeep Wrangler, Lucid)*
-- 🎓 **B.Eng Manufacturing Technology** (Automotive Design) with Honours
-- 🏆 **Top 14 Finalist** — Global AI Hackathon 2026 Grand Finale
-- 🧠 **Creator:** Built *Dukelove MemoryCore* — AI companion with 213 autonomous skills
-- 📡 **Currently Building:** *IRON PULSE* — Manufacturing AI for predictive maintenance on edge hardware
-- 🇲🇾 Based in Malaysia · Building local-first, privacy-sovereign AI systems
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,dart,nextjs,react,tailwind,flutter&theme=dark" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,postgres,supabase,linux,raspberrypi,git&theme=dark" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vercel,firebase,figma,vscode,github,bash&theme=dark" />
-  </a>
-</div>
-
----
-
-## 🚀 Arsenal (Featured Projects)
-
-| | Project | Description | Stack |
-|:--|:--------|:------------|:------|
-| 🧠 | **[Dukelove MemoryCore](https://github.com/hasifai/Dukelove-MemoryCore)** | AI companion with 213 autonomous skills & multi-agent orchestration | `Python` `AI Architecture` |
-| ⚙️ | **IRON PULSE** | Manufacturing AI — predictive maintenance, anomaly detection, edge telemetry | `Python` `FastAPI` `IoT` `ML` |
-| 🛡️ | **SovereignOS** | Local-first AI operating system · 42/42 test coverage | `TypeScript` `Python` `Docker` |
-| 🌊 | **[MyResilience](https://frontend-tan-pi-28.vercel.app)** | AI disaster preparedness — real-time alerts & evacuation routing | `Next.js` `AI` `Maps` |
-| 🔒 | **[AI ScamShield](https://ai-hackathon-overclock-page.vercel.app)** | Real-time scam detection protecting Malaysians from online fraud | `Next.js` `AI` `Vercel` |
-| 🔍 | **Neuro Email Classifier** | ML-powered email intelligence with Ollama integration | `Python` `scikit-learn` `FastAPI` |
-
----
-
-## 📊 Telemetry (GitHub Analytics)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasifai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifai&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifai&theme=react-dark&hide_border=true&area=true&color=00FF99&line=00FF99&point=FFFFFF" width="95%" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  SYSTEM STATUS: ONLINE          ║  CLEARANCE: SOVEREIGN        ║
+║  UPTIME: 5+ YEARS ENGINEERING   ║  THREAT LEVEL: BUILDING AI   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hasifai&color=00FF99&style=flat-square&label=SYSTEM+VISITORS" alt="Visitors" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/hasifai?style=flat-square&color=00FF99&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/hasifai?style=flat-square&color=00FF99&labelColor=0d1117&label=TOTAL+STARS&affiliations=OWNER" alt="Stars" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
+
+## `> cat /sys/identity/blueprint.md`
+
+</div>
+
+```js
+const hasif = {
+    designation: "AI Architect & Edge Systems Engineer",
+    origin: "Manufacturing Engineer → AI Builder",
+    base: "Malaysia 🇲🇾",
+    
+    experience: {
+        previous: "Senior Engineer @ WSA Venture Australia (5 years)",
+        domains: ["Injection Moulding", "PU Foam Process", "Automotive — Jeep Wrangler, Lucid"],
+        education: "B.Eng Manufacturing Technology (Automotive Design) — Honours"
+    },
+    
+    current: {
+        role: "Sovereign AI Architect",
+        focus: ["Edge AI Systems", "Multi-Agent Orchestration", "Privacy-First AI"],
+        achievement: "🏆 Top 14 Finalist — Global AI Hackathon 2026"
+    },
+    
+    philosophy: "From maintaining machines to building minds."
+};
+```
+
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasifai/hasifai/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasifai/hasifai/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasifai/hasifai/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+
+## `> neofetch --skills`
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ⚡ Languages & Frameworks
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,dart,rust&theme=dark&perline=5" />
+</a>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,fastapi&theme=dark&perline=5" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 🛠️ Infrastructure & Tools
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,linux,raspberrypi,supabase,postgres&theme=dark&perline=5" />
+</a>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode&theme=dark&perline=5" />
+</a>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## ⚡ Recent Activity
+<div align="center">
+
+## `> ls ~/projects --featured`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Dukelove MemoryCore](https://github.com/hasifai/Dukelove-MemoryCore)
+> AI companion with **213 autonomous skills** & multi-agent orchestration. Persistent memory, behavioral learning, sovereign architecture.
+
+`Python` `AI Architecture` `Multi-Agent`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ IRON PULSE
+> Manufacturing AI — predictive maintenance, anomaly detection, edge telemetry on Raspberry Pi hardware.
+
+`Python` `FastAPI` `IoT` `Edge ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ SovereignOS
+> Local-first AI operating system. Privacy-sovereign, zero-cloud dependency. **42/42 test coverage.**
+
+`TypeScript` `Python` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 [MyResilience](https://frontend-tan-pi-28.vercel.app)
+> AI disaster preparedness — real-time alerts, evacuation routing, community resilience scoring.
+
+`Next.js` `AI` `Maps API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 [AI ScamShield](https://ai-hackathon-overclock-page.vercel.app)
+> Real-time scam detection protecting Malaysians from online fraud. Multi-vector analysis.
+
+`Next.js` `AI` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Neuro Email Classifier
+> ML-powered email intelligence with Ollama integration. Local inference, zero data leakage.
+
+`Python` `scikit-learn` `FastAPI`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `> htop --github`
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hasifai&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9&ring_color=00FF99" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifai&hide_border=true&background=0d1117&stroke=00FF99&ring=00FF99&fire=FF6B35&currStreakLabel=00FF99&sideLabels=00FF99&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8B949E" alt="GitHub Streak" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifai&bg_color=0d1117&color=00FF99&line=00FF99&point=FF6B35&area=true&area_color=00FF99&hide_border=true&custom_title=CONTRIBUTION%20FREQUENCY%20ANALYSIS" width="98%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=hasifai&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `> cat /var/log/contributions.snake`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasifai/hasifai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasifai/hasifai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasifai/hasifai/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> tail -f /var/log/activity.log`
 
 <!--START_SECTION:activity-->
-1. 🚀 Activity will auto-populate here daily
+1. 🚀 Activity auto-updates daily via GitHub Actions
 <!--END_SECTION:activity-->
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💠 *"From maintaining machines to building minds."*
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   "I spent 5 years keeping machines alive on factory floors.    │
+│    Now I build machines that think for themselves."              │
+│                                                                 │
+│                              — Hasif Zulkifli, 2026             │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<br/>
+
+<img src="https://img.shields.io/badge/🏭_PREVIOUS_LIFE-Manufacturing_Engineer-FF6B35?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🧠_CURRENT_LIFE-AI_Architect-00FF99?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🚀_NEXT_LIFE-Edge_Sovereign-7C3AED?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<a href="mailto:hasif1144@gmail.com"><img src="https://img.shields.io/badge/COMMS-hasif1144@gmail.com-00FF99?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<a href="https://github.com/hasifai"><img src="https://img.shields.io/badge/BASE-Malaysia_🇲🇾-00FF99?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF99,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
