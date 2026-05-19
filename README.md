@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif" alt="AI Header Animation" width="60%">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="0" height="0" style="display:none" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" alt="AI Neural Network" width="55%">
 
 <br/>
 
@@ -10,18 +11,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Manufacturing+Engineer+%E2%86%92+AI+Architect;Building+Machines+That+Think;Creator+of+Dukelove+MemoryCore;Pioneering+Edge+AI+Systems;Top+14+Global+AI+Hackathon+Finalist" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/🏭_Manufacturing-5_Years-FF6B35?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/🔧_Injection_Moulding-Advanced-FF6B35?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/🚗_Automotive-Jeep_|_Lucid-FF6B35?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/⚙️_PU_Foam_Process-Advanced-FF6B35?style=flat-square&labelColor=1a1a2e" />
 
-<br/>
+<br/><br/>
 
 <a href="mailto:hasif1144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/hasifai"><img src="https://img.shields.io/badge/Malaysia_Based-000000?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-<img src="https://profile-counter.glitch.me/hasifai/count.svg" alt="Visitors" />
+<img src="https://komarev.com/ghpvc/?username=hasifai&color=00FF99&style=for-the-badge&label=VISITORS" alt="Visitors" />
 
 </div>
 
