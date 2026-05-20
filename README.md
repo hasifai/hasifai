@@ -3,7 +3,7 @@
 [![header](https://raw.githubusercontent.com/hasifai/hasifai/main/header.svg)](https://github.com/hasifai)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=AI+Architect+%7C+Edge+Engineer;Building+Sovereign+AI+Systems;Multi-Agent+Orchestration+%7C+Privacy-First" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Creator+of+SovereignCore+🚀;AI+Architect+%7C+Edge+Engineer;Building+Sovereign+AI+Systems;Privacy-First+Agent+Swarms" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -15,8 +15,9 @@
 
 ## 👤 About
 
-**Hasif Zulkifli** — AI Architect & Edge Engineer transitioning from 5 years as a Senior Manufacturing Engineer (injection moulding, PU foam, automotive clients: Jeep Wrangler, Lucid Motors at WSA Venture Australia).
+**Hasif Zulkifli** — Creator of **SovereignCore**, AI Architect & Edge Engineer transitioning from 5 years as a Senior Manufacturing Engineer (injection moulding, PU foam, automotive clients: Jeep Wrangler, Lucid Motors at WSA Venture Australia).
 
+- 👑 Creator of **[SovereignCore](https://github.com/hasifai/sovereign-core)** — a powerful, privacy-first local AI agent and cognitive memory system
 - 🎓 B.Eng Manufacturing Technology (Automotive Design) with Honours
 - 🏗️ Building sovereign AI systems — multi-agent orchestration, edge deployment, privacy-first architecture
 - 🏆 **Top 14 Finalist — Global AI Hackathon 2026 Grand Finale** (Team Overclock)
@@ -44,6 +45,7 @@
 
 | | Project | Description |
 |---|---|---|
+| 👑 | **[SovereignCore](https://github.com/hasifai/sovereign-core)** | A premium privacy-first local AI agent & cognitive memory architecture |
 | 🛡️ | **[AI ScamShield](https://github.com/hasifai/ai-scamshield)** | Real-time scam detection system using multi-modal AI analysis |
 | 🔍 | **[Project OCR-CC](https://github.com/hasifai/project-ocrcc)** | Intelligent document processing with edge-optimized OCR pipeline |
 | 📈 | **[Signal Monitor](https://github.com/hasifai/signal-monitor)** | Manufacturing signal anomaly detection with streaming inference |
